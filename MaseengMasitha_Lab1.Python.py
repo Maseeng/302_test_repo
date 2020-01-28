@@ -4,6 +4,7 @@ Type "copyright", "credits" or "license()" for more information.
 #24 January 2020
 #Python 3.4
 #IDCE 302 Lab 1: Calculating agricultural land and rain runoff in Kenya
+#This exercise is meant to practise assigning values to mathematical variables, using conventional mathematical operations and formulas in script, and excuting them.
 
 #Volume of water run-off on area = 50 ft by 20 ft = 100 sq ft
 #Volume of water run-off on 1000 sq ft during a rainfall event of 1 inch precipitation
